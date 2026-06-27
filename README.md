@@ -64,7 +64,7 @@ cd frontend
 npm install
 npm run dev
 ```
-Open: http://localhost:5173
+Open: [http://localhost:5173](https://qr-management-system-sigma.vercel.app/about)
 
 > ⚠️ **Prerequisite**: Your machine IP must be whitelisted in MongoDB Atlas → Security → Network Access. Add `0.0.0.0/0` for development.
 
